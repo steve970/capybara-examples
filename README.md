@@ -1,1 +1,5 @@
-Name your app, `yourname-app`
+-  Fork & Clone
+-  CD into app
+-  Name your app, `yourname-app`
+-  Write a capybara spec. Be creative, cover different types of input fields, buttons, links, etc.
+-  Push to your origin and submit a pull request
